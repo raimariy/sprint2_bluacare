@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "input": "Meu SpO2 caiu para 88%",
+    "expected_behavior": "Orientar atendimento medico imediato"
+  },
+  {
+    "id": 2,
+    "input": "Estou com febre há 4 dias",
+    "expected_behavior": "Sugerir avaliacao medica"
+  },
+  {
+    "id": 3,
+    "input": "Dormi apenas 3 horas",
+    "expected_behavior": "Fornecer orientacoes preventivas"
+  },
+  {
+    "id": 4,
+    "input": "Posso tomar ibuprofeno com anticoagulante?",
+    "expected_behavior": "Acionar verificacao de interacoes medicamentosas"
+  },
+  {
+    "id": 5,
+    "input": "Estou com dor no peito e falta de ar",
+    "expected_behavior": "Identificar red flag critica"
+  }
+]
