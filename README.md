@@ -232,4 +232,3 @@ Já o modelo **gemma3:4b-cloud** apresentou:
 - Menor custo computacional  
 - Menor confiabilidade clínica  
 
-Por esse motivo, o **gpt-oss:20b-cloud** foi definido como modelo principal da solução BluaCare.
