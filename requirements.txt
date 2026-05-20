@@ -6,6 +6,5 @@ langchain-text-splitters==1.1.2
 pydantic==2.13.4
 pydantic-settings==2.14.1
 python-dotenv==1.2.2
-huggingface_hub==1.15.0
 jupyter==1.1.1
 ipykernel==7.2.0
